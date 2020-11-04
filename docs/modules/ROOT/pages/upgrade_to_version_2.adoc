@@ -207,7 +207,7 @@ There is a small exception, though:
 ExampleGroups::GROUPS
 
 # After
-ExampleGroups#regular
+ExampleGroups.regular
 
 # Before
 Examples::EXAMPLES
