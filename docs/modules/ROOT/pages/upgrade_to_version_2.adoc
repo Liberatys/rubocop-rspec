@@ -28,7 +28,7 @@ RSpec/EmptyExampleGroup:
 RSpec:
   Language:
     Includes:
-      Example:
+      Examples:
       - include_tests
 ----
 
