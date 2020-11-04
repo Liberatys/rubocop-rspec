@@ -173,7 +173,7 @@ def_node_search :examples?,
 
 # After
 def_node_search :examples?,
-                send_pattern('{#Includes.Example #Examples.all}')
+                send_pattern('{#Includes.examples #Examples.all}')
 ----
 
 [source,ruby]
