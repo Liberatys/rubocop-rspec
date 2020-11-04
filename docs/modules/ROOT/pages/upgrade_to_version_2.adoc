@@ -213,7 +213,7 @@ ExampleGroups.regular
 Examples::EXAMPLES
 
 # After
-Examples#regular
+Examples.regular
 ----
 
 https://github.com/rubocop-hq/rubocop-rspec/pull/956[Pull request with more examples].
